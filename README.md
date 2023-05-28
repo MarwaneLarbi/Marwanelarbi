@@ -131,6 +131,9 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaneLarbi&layout=compact)
+## <div align="center">Most Used Languages</div>
+
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaneLarbi&layout=compact)
+</div>
