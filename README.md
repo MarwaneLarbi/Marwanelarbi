@@ -131,3 +131,4 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+[![Marwane Larbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarwaneLarbi&langs_count
